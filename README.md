@@ -184,7 +184,7 @@ public class Narayan {
 | 📧 **Gmail** | [mauryanarayan649@gmail.com](mailto:mauryanarayan649@gmail.com) |
 | 📸 **Instagram** | [@npmaurya124](https://www.instagram.com/npmaurya124/) |
 | 👥 **Facebook** | [Narayan Prasad Maurya](https://www.facebook.com/narayanprasad.maurya.5) |
-| 💼 **LinkedIn** | [narayan-prasad-maurya](https://linkedin.com/in/narayan-prasad-maurya) |
+| 💼 **LinkedIn** | [narayan-prasad-maurya](www.linkedin.com/in/narayan-prasad-maurya-75488b213) |
 | 📞 **WhatsApp** | [+91 9517339347](https://wa.me/919517339347) |
 
 <br/>
