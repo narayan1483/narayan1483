@@ -178,12 +178,46 @@ public class Narayan {
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-narayan1483-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/narayan1483)
-[![Gmail](https://img.shields.io/badge/Gmail-mauryanarayan649%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mauryanarayan649@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%40npmaurya124-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/npmaurya124/)
-[![Facebook](https://img.shields.io/badge/Facebook-Narayan%20Prasad-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/narayanprasad.maurya.5)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narayan-prasad-maurya-75488b213/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B91%209517339347-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919517339347)
+<table>
+  <tr>
+    <td align="center" width="140">
+      <a href="https://github.com/narayan1483">
+        <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /><br/>
+        <sub><b>narayan1483</b></sub>
+      </a>
+    </td>
+    <td align="center" width="140">
+      <a href="mailto:mauryanarayan649@gmail.com">
+        <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /><br/>
+        <sub><b>mauryanarayan649</b></sub>
+      </a>
+    </td>
+    <td align="center" width="140">
+      <a href="https://www.instagram.com/npmaurya124/">
+        <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /><br/>
+        <sub><b>@npmaurya124</b></sub>
+      </a>
+    </td>
+    <td align="center" width="140">
+      <a href="https://www.facebook.com/narayanprasad.maurya.5">
+        <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /><br/>
+        <sub><b>Narayan Prasad</b></sub>
+      </a>
+    </td>
+    <td align="center" width="140">
+      <a href="https://www.linkedin.com/in/narayan-prasad-maurya-75488b213/">
+        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><br/>
+        <sub><b>narayan-prasad</b></sub>
+      </a>
+    </td>
+    <td align="center" width="140">
+      <a href="https://wa.me/919517339347">
+        <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /><br/>
+        <sub><b>+91 9517339347</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
