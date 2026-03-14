@@ -33,7 +33,7 @@ public class Narayan {
         "Open Source 🌍"
     };
 
-    String   motto = "Build. Break. Learn. Repeat. 🚀";
+    String motto = "Build. Break. Learn. Repeat. 🚀";
 }
 ```
 
@@ -97,12 +97,15 @@ public class Narayan {
 <tr>
 <td width="50%">
 
-### 🔄 NaraConvert
-> Universal File Converter Tool
-- Built with Java
-- Multiple format support
+### ⚡ NaraConvert
+> Universal File Converter — 35+ formats
+- Images · Documents · Code · Data
+- Multi-page PDF · DOCX · PPTX · XLSX
+- Pure Java backend — no external APIs
+- 100% Free · No signup · Dark UI
 
 [![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/narayan1483/NaraConvert)
+[![Live](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](https://narayan1483.github.io/NaraConvert)
 
 </td>
 <td width="50%">
@@ -159,6 +162,7 @@ public class Narayan {
 
 </div>
 
+---
 
 ## 📈 Contribution Graph
 
@@ -174,9 +178,23 @@ public class Narayan {
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-narayan1483-181717?style=for-the-badge&logo=github)](https://github.com/narayan1483)
+| 🌐 Platform | 🔗 Link |
+|-------------|---------|
+| 🐙 **GitHub** | [@narayan1483](https://github.com/narayan1483) |
+| 📧 **Gmail** | [mauryanarayan649@gmail.com](mailto:mauryanarayan649@gmail.com) |
+| 📸 **Instagram** | [@npmaurya124](https://www.instagram.com/npmaurya124/) |
+| 👥 **Facebook** | [Narayan Prasad Maurya](https://www.facebook.com/narayanprasad.maurya.5) |
+| 💼 **LinkedIn** | [narayan-prasad-maurya](https://linkedin.com/in/narayan-prasad-maurya) |
+| 📞 **WhatsApp** | [+91 9517339347](https://wa.me/919517339347) |
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-narayan1483-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/narayan1483)
+[![Gmail](https://img.shields.io/badge/Gmail-mauryanarayan649-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mauryanarayan649@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-npmaurya124-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/npmaurya124/)
+[![Facebook](https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/narayanprasad.maurya.5)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/narayan-prasad-maurya)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="7c121d0e1d051d124d48444f3c1b111d1510521f1311">[email&#160;protected]</a>)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919517339347)
 
 </div>
 
@@ -186,4 +204,6 @@ public class Narayan {
 
 ![Profile Views](https://komarev.com/ghpvc/?username=narayan1483&label=Profile%20Views&color=0e75b6&style=flat)
 
-### 💬 *"Code. Create. Contr
+### 💬 *"Code. Create. Contribute. 🔥"*
+
+</div>
