@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/React%20Js-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Mysql%20Sql-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/AI%2FML-Enthusiast-ff6600?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Utter-Pradesh-green?style=for-the-badge&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-UtterPradesh-green?style=for-the-badge&logo=google-maps&logoColor=white" />
 </div>
 
 ---
