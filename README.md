@@ -193,7 +193,7 @@ public class Narayan {
 [![Gmail](https://img.shields.io/badge/Gmail-mauryanarayan649-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mauryanarayan649@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-npmaurya124-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/npmaurya124/)
 [![Facebook](https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/narayanprasad.maurya.5)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/narayan-prasad-maurya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/narayan-prasad-maurya75488b213)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919517339347)
 
 </div>
