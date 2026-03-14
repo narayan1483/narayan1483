@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=F7A800&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+Narayan+Prasad+Maurya;MCA+Student+%40+NIT+Raipur;Java+%7C+JSP+%7C+Web+Dev;Game+Dev+%7C+AI%2FML+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2500&pause=800&color=F7A800&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+I'm+Narayan+Prasad+Maurya;Full+Stack+Java+Developer+%E2%98%95;MERN+Stack+Developer+%F0%9F%9A%80;JavaScript+%7C+React+%7C+Node.js;Java+%7C+JSP+%7C+Servlet+%7C+MySQL;Backend+Dev+%7C+AI%2FML+Enthusiast+%F0%9F%A4%96;Game+Developer+%F0%9F%8E%AE+%7C+NIT+Raipur;Build.+Create.+Innovate.+%F0%9F%94%A5" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -187,7 +187,7 @@ public class Narayan {
 
 [![GitHub](https://img.shields.io/badge/GitHub-narayan1483-181717?style=for-the-badge&logo=github)](https://github.com/narayan1483)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/narayan-prasad-maurya)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:narayan1483@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="7c121d0e1d051d124d48444f3c1b111d1510521f1311">[email&#160;protected]</a>)
 
 </div>
 
@@ -197,10 +197,4 @@ public class Narayan {
 
 ![Profile Views](https://komarev.com/ghpvc/?username=narayan1483&label=Profile%20Views&color=0e75b6&style=flat)
 
-### 💬 *"Code. Create. Contribute."* 🚀
-
-**⭐ Star my repos if you find them useful!**
-
-*© 2026 Narayan Prasad Maurya — MCA @ NIT Raipur*
-
-</div>
+### 💬 *"Code. Create. Contr
