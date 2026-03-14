@@ -159,17 +159,6 @@ public class Narayan {
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=narayan1483&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
-
----
 
 ## 📈 Contribution Graph
 
