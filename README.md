@@ -178,19 +178,21 @@ public class Narayan {
 
 <div align="center">
 
-| 🌐 Platform | 🔗 Link |
-|-------------|---------|
-| 🐙 **GitHub** | [@narayan1483](https://github.com/narayan1483) |
-| 📧 **Gmail** | [<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="89e4e8fcfbf0e8e7e8fbe8f0e8e7bfbdb0c9eee4e8e0e5a7eae6e4">[email&#160;protected]</a>](mailto:<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="d1bcb0a4a3a8b0bfb0a3b0a8b0bfe7e5e891b6bcb0b8bdffb2bebc">[email&#160;protected]</a>) |
-| 📸 **Instagram** | [@npmaurya124](https://www.instagram.com/npmaurya124/) |
-| 👥 **Facebook** | [Narayan Prasad Maurya](https://www.facebook.com/narayanprasad.maurya.5) |
-| 💼 **LinkedIn** | [narayan-prasad-maurya](https://www.linkedin.com/in/narayan-prasad-maurya-75488b213/) |
-| 📞 **WhatsApp** | [+91 9517339347](https://wa.me/919517339347) |
-
-<br/>
-
 [![GitHub](https://img.shields.io/badge/GitHub-narayan1483-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/narayan1483)
-[![Gmail](https://img.shields.io/badge/Gmail-mauryanarayan649-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="076a6672757e66696675667e666931333e47606a666e6b2964686a">[email&#160;protected]</a>)
-[![Instagram](https://img.shields.io/badge/Instagram-npmaurya124-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/npmaurya124/)
-[![Facebook](https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/narayanprasad.maurya.5)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http
+[![Gmail](https://img.shields.io/badge/Gmail-mauryanarayan649%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mauryanarayan649@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%40npmaurya124-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/npmaurya124/)
+[![Facebook](https://img.shields.io/badge/Facebook-Narayan%20Prasad-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/narayanprasad.maurya.5)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narayan-prasad-maurya-75488b213/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B91%209517339347-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919517339347)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=narayan1483&label=Profile%20Views&color=0e75b6&style=flat)
+
+### 💬 *"Code. Create. Contribute. 🔥"*
+
+</div>
