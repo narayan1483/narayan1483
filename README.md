@@ -113,14 +113,19 @@ public class Narayan {
 
 </td>
 <td width="50%">
+  
+### 📝 Full Stack Todo App
 
-### 🗺️ Delhi Trip Planner
-> Full-stack React travel app
-- 3-day Delhi itinerary
-- Interactive maps
-- Built with TypeScript + Manus
+> A complete full-stack todo application with authentication system.
 
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/narayan1483/delhi-trip-planner)
+- 🔐 Login & Register system  
+- 📋 Dashboard with protected routes  
+- 🌐 Live frontend deployed on Vercel  
+- ⚙️ Backend API deployed on Render  
+
+🔗 **Live:** https://my-todo-app-liard-ten.vercel.app  
+🔗 **Frontend Repo:** https://github.com/narayan1483/my-todo-app  
+🔗 **Backend Repo:** https://github.com/narayan1483/my-auth-api
 
 </td>
 </tr>
