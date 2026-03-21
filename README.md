@@ -22,12 +22,12 @@ public class Narayan {
 
     String name     = "Narayan Prasad Maurya";
     String college  = "NIT Raipur (MCA)";
-    String location = "Noida, India";
+    String location = "Uttar Pradesh, India";
 
     String[] skills = {
         "Java", "JSP", "Servlet", "MySQL",
-        "JavaScript", "HTML", "CSS",
-        "Python", "Apache Tomcat"
+        "JavaScript", "HTML", "CSS", "Node", "React"
+        "Python", "Apache Tomcat", "MongoDB" 
     };
 
     String[] interests = {
