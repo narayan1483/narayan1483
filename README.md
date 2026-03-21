@@ -26,7 +26,7 @@ public class Narayan {
 
     String[] skills = {
         "Java", "JSP", "Servlet", "MySQL", "MongoDB",
-        "JavaScript", "HTML", "CSS", "Node", "React",
+        "JavaScript", "HTML", "CSS", "Node", "Express", "React",
         "Python", "Apache Tomcat", "MongoDB", 
     };
 
