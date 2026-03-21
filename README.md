@@ -25,9 +25,9 @@ public class Narayan {
     String location = "Uttar Pradesh, India";
 
     String[] skills = {
-        "Java", "JSP", "Servlet", "MySQL",
-        "JavaScript", "HTML", "CSS", "Node", "React"
-        "Python", "Apache Tomcat", "MongoDB" 
+        "Java", "JSP", "Servlet", "MySQL", "MongoDB",
+        "JavaScript", "HTML", "CSS", "Node", "React",
+        "Python", "Apache Tomcat", "MongoDB", 
     };
 
     String[] interests = {
