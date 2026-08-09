@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2500&pause=800&color=F7A800&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+I'm+Narayan+Prasad+Maurya;Full+Stack+Java+Developer+%E2%98%95;MERN+Stack+Developer+%F0%9F%9A%80;JavaScript+%7C+React+%7C+Node.js;Java+%7C+Spring boot+%7c+Spring AI +%7c+JSP+%7C+Servlet+%7C+MySQL;Backend+Dev+%7C+AI%2FML+Enthusiast+%F0%9F%A4%96;Game+Developer+%F0%9F%8E%AE+%7C+NIT+Raipur;Build.+Create.+Innovate.+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2500&pause=800&color=F7A800&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+I'm+Narayan+Prasad+Maurya;Full+Stack+Java+Developer+%E2%98%95;MERN+Stack+Developer+%F0%9F%9A%80;JavaScript+%7C+React+%7C+Node.js;Java+%7C+%7c+Springboot+%7C+SpringAI+%7C+MySQL;Backend+Dev+%7C+AI%2FML+Enthusiast+%F0%9F%A4%96;Game+Developer+%F0%9F%8E%AE+%7C+NIT+Raipur;Build.+Create.+Innovate.+%F0%9F%94%A5" alt="Typing SVG" />
 </h1>
 
 <div align="center">
