@@ -45,7 +45,9 @@ public class Narayan {
 
 ## 🚀 My Projects
 
-<tr>
+<table>
+
+  <tr>
 <td colspan="2" width="100%">
 
 ### 🎓 CampusAI — RAG-Based AI Teaching Assistant
@@ -61,8 +63,6 @@ public class Narayan {
 
 </td>
 </tr>
-
-<table>
 <tr>
 <td width="50%">
 
