@@ -45,6 +45,23 @@ public class Narayan {
 
 ## 🚀 My Projects
 
+<tr>
+<td colspan="2" width="100%">
+
+### 🎓 CampusAI — RAG-Based AI Teaching Assistant
+> AI-powered study companion that answers questions strictly from your own course material — with citations, confidence scoring, flashcards, adaptive quizzes & more
+- 🔍 Retrieval-Augmented Generation (RAG) with FAISS + confidence-aware answering (no hallucination)
+- 💬 Streaming chat · 📄 PDF/image preview · 🃏 Flashcards · 📝 Quizzes · 🌐 Hindi/English UI
+- FastAPI + React · Deployed on **Render** (backend) + **Vercel** (frontend)
+- Built as part of an IEEE-style research project on RAG-based education tools
+
+[![Live](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](https://rag-teaching-assistant.vercel.app)
+[![Frontend Repo](https://img.shields.io/badge/GitHub-Frontend-181717?style=flat-square&logo=github)](https://github.com/narayan1483/rag-teaching-assistant)
+[![Backend Repo](https://img.shields.io/badge/GitHub-Backend-181717?style=flat-square&logo=github)](https://github.com/narayan1483/rag-backend)
+
+</td>
+</tr>
+
 <table>
 <tr>
 <td width="50%">
@@ -130,7 +147,6 @@ public class Narayan {
 </td>
 </tr>
 </table>
-
 ---
 
 ## 🛠️ Tech Stack
