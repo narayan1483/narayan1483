@@ -26,8 +26,8 @@ public class Narayan {
 
     String[] skills = {
         "Java", "Spring-boot", "Spring-AI", "MySQL", "MongoDB",
-        "JavaScript", "HTML", "CSS", "Node", "React", "Docker ",
-        "Python", "Apache Tomcat", "Kafka ", "Kubernetes " 
+        "JavaScript", "HTML", "CSS", "Node", "React", "Docker",
+        "Python", " Apache Kafka", "Kubernetes " 
     };
 
     String[] interests = {
