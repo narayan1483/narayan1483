@@ -46,7 +46,7 @@ public class Narayan {
 ## 🚀 My Projects
 
 <table>
- <tr>
+<tr>
 <td colspan="2" width="100%">
 
 ### 🎓 CampusAI — RAG-Based AI Teaching Assistant
@@ -57,8 +57,8 @@ public class Narayan {
 - Built as part of an IEEE-style research project on RAG-based education tools
 
 [![Live](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](https://rag-teaching-assistant.vercel.app)
-[![Frontend Repo](https://img.shields.io/badge/GitHub-Frontend-181717?style=flat-square&logo=github)](https://github.com/narayan1483/rag-teaching-assistant)
-[![Backend Repo](https://img.shields.io/badge/GitHub-Backend-181717?style=flat-square&logo=github)](https://github.com/narayan1483/rag-backend)
+[![Repo](https://img.shields.io/badge/GitHub-Frontend-181717?style=flat-square&logo=github)](https://github.com/narayan1483/rag-teaching-assistant)
+[![Repo](https://img.shields.io/badge/GitHub-Backend-181717?style=flat-square&logo=github)](https://github.com/narayan1483/rag-backend)
 
 </td>
 </tr>
