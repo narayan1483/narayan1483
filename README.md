@@ -63,6 +63,21 @@ public class Narayan {
 </td>
 </tr>
 <tr>
+<td colspan="2" width="100%">
+
+### 📝 code.withnarayan — Handwritten Notes Marketplace
+> Subject-wise, exam-ready handwritten notes platform — DSA, Java, Web Dev, System Design, DBMS, OS — built for students, by a student
+- 🔍 Search & filter notes by subject, notebook-inspired UI with color-coded subject tabs
+- ➕ "Add Note" publish flow — new notes go live instantly, just like listing a product on an e-commerce site
+- 📬 Working contact form + fully responsive design
+- React (Vite) frontend + Node/Express backend + MongoDB · Deployed on **Vercel** (frontend) + **Render** (backend)
+
+[![Live](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](https://codewithnarayan.vercel.app)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/narayan1483/codewithnarayan)
+
+</td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🏎️ Car-RacingArena3D
