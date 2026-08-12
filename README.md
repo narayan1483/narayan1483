@@ -46,6 +46,25 @@ public class Narayan {
 ## 🚀 My Projects
 
 <table>
+
+<tr>
+<td colspan="2" width="100%">
+
+### 🛒 ShopNest — Enterprise Full-Stack SaaS E-Commerce Platform
+> Production-grade multi-vendor SaaS E-Commerce platform built with Spring Boot 3, React 19, JWT Security, Phone/Email OTP verification & RBAC Access Control.
+- 🛡️ **Role-Based Security**: Admin, Seller/Merchant, and Customer roles with JWT stateless auth & BCrypt encryption.
+- 📱 **Dual Login & Real OTP**: Login with Email OR Phone Number · Real 6-digit OTP delivery via Gmail SMTP & Fast2SMS API.
+- 🛍️ **Rich Shopping Experience**: Instant search with autosuggest, subcategory tags, image gallery, reviews & 5-step checkout.
+- 📊 **Seller & Admin Dashboards**: Complete inventory management, order processing, platform revenue & user analytics.
+- React 19 + Vite + Tailwind v4 · Spring Boot 3 + MySQL 8 + Java 21
+
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/narayan1483/E-commerce-ShopNest-)
+[![Tech](https://img.shields.io/badge/Stack-React%2019%20%7C%20Spring%20Boot%203%20%7C%20MySQL-blue?style=flat-square)](https://github.com/narayan1483/E-commerce-ShopNest-)
+
+</td>
+</tr>
+
+  
 <tr>
 <td colspan="2" width="100%">
 
