@@ -84,18 +84,23 @@ public class Narayan {
 <tr>
 <td colspan="2" width="100%">
 
-### 📝 code.withnarayan — Handwritten Notes Marketplace
-> Subject-wise, exam-ready handwritten notes platform — DSA, Java, Web Dev, System Design, DBMS, OS — built for students, by a student
-- 🔍 Search & filter notes by subject, notebook-inspired UI with color-coded subject tabs
-- ➕ "Add Note" publish flow — new notes go live instantly, just like listing a product on an e-commerce site
-- 📬 Working contact form + fully responsive design
-- React (Vite) frontend + Node/Express backend + MongoDB · Deployed on **Vercel** (frontend) + **Render** (backend)
+### 📝 code.withnarayan — Handwritten CS Notes & SDE Interview Mastery Platform
+> Production-grade CS notes & placement preparation platform featuring dynamic category hubs, live quiz engine, career roadmaps, cheatcodes explorer & 24/7 MySQL cloud sync.
+- 🗂️ **Interactive Category Hubs**: Expandable study explorers (All CS Notes, Cheatsheets, System Design, Placement Quiz & Bundles) with live Aiven MySQL sync.
+- 🏆 **Daily Placement Quiz Engine**: Interactive core CS & SDE MCQs with real-time scoring, timers & detailed step-by-step explanations.
+- ⚡ **Cheatcodes & Curated Bundles**: Instant 1-click syntax sheets, algorithm time complexities & all-in-one placement revision packs.
+- 📱 **Mobile Touch Bottom Nav**: 100% responsive zero-overflow UI with safe-area bottom navigation bar, Ctrl+K command palette & dark/light mode.
+- 🔐 **Admin Management**: Live note publishing (PDF/Drive), dynamic category hub customizer & live platform analytics.
+- React 18 + Vite · Node.js + Express (Gzip Compression) · Aiven MySQL 8.0 · Deployed on **Vercel** (Frontend) + **Render** (Backend)
 
-[![Live](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](https://codewithnarayan.vercel.app)
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/narayan1483/codewithnarayan)
+[![Live](https://img.shields.io/badge/Live-codewithnarayan.vercel.app-2563EB?style=flat-square&logo=vercel)](https://codewithnarayan.vercel.app)
+[![Backend](https://img.shields.io/badge/API-Render-10B981?style=flat-square&logo=render)](https://codewithnarayan-backend.onrender.com)
+[![Database](https://img.shields.io/badge/Database-Aiven%20MySQL-F59E0B?style=flat-square&logo=mysql&logoColor=white)](https://aiven.io)
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/narayan1483/codewithnarayan)
 
 </td>
 </tr>
+
 <tr>
 <td width="50%">
 
