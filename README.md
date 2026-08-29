@@ -63,6 +63,26 @@ public class Narayan {
 
 </td>
 </tr>
+<tr>
+<td colspan="2" width="100%">
+
+### 🤖 DevPilot AI — Autonomous Software Engineer Platform
+> A full-stack AI-powered platform that acts as your autonomous software engineer — from requirements to code, review, tests, and docs — all in one intelligent workspace powered by **Google Gemini 1.5 Flash**.
+
+- 🧠 **9 AI Modules**: Requirements Analysis · System Design · Database Design · API Spec · Code Generation · Code Review · Bug Debugger · Test Generator · Documentation
+- 📁 **RAG Assistant**: Upload project docs → ask questions → AI answers from your own context (pgvector + chunking)
+- 🔐 **JWT Auth + Kafka + Redis**: Stateless security, real-time event streaming, caching for performance
+- 🐙 **GitHub Integration**: Push code and manage repos directly from the platform
+- 📊 **Analytics Dashboard**: Token usage charts, AI activity metrics with Recharts
+- 📋 **Kanban · Pomodoro · Snippets · Team Management** — Full developer workspace
+- Spring Boot 3 + Java 21 + Spring AI · React 18 + TypeScript + Vite + TailwindCSS · PostgreSQL 16 (pgvector) · Docker Compose
+
+[![Repo](https://img.shields.io/badge/GitHub-devpilot--project-181717?style=flat-square&logo=github)](https://github.com/narayan1483/devpilot-project)
+[![Stack](https://img.shields.io/badge/Stack-Spring_Boot_3_%7C_React_18_%7C_Gemini_AI-4285F4?style=flat-square&logo=google)](https://github.com/narayan1483/devpilot-project)
+[![Docker](https://img.shields.io/badge/Docker-Compose_Ready-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/narayan1483/devpilot-project)
+
+</td>
+</tr>
 
   
 <tr>
