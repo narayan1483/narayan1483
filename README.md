@@ -50,19 +50,36 @@ public class Narayan {
 <tr>
 <td colspan="2" width="100%">
 
-### 🛒 ShopNest — Enterprise Full-Stack SaaS E-Commerce Platform
-> Production-grade multi-vendor SaaS E-Commerce platform built with Spring Boot 3, React 19, JWT Security, Phone/Email OTP verification & RBAC Access Control.
-- 🛡️ **Role-Based Security**: Admin, Seller/Merchant, and Customer roles with JWT stateless auth & BCrypt encryption.
-- 📱 **Dual Login & Real OTP**: Login with Email OR Phone Number · Real 6-digit OTP delivery via Gmail SMTP & Fast2SMS API.
-- 🛍️ **Rich Shopping Experience**: Instant search with autosuggest, subcategory tags, image gallery, reviews & 5-step checkout.
-- 📊 **Seller & Admin Dashboards**: Complete inventory management, order processing, platform revenue & user analytics.
-- React 19 + Vite + Tailwind v4 · Spring Boot 3 + MySQL 8 + Java 21
+### 🛒 ShopNest — Next-Gen AI-Powered Multi-Vendor SaaS E-Commerce Platform
+> Production-grade Multi-Vendor SaaS E-Commerce platform supercharged with **Spring AI** & **Google Gemini 3.5 Flash**, built on **React 19**, **Spring Boot 3**, **JWT Security** & **Razorpay Payments**.
+
+- 🧠 **Spring AI & Google Gemini Suite**:
+  - 🤖 **AI Shopping Concierge**: Real-time context-aware shopping chatbot with bilingual Hinglish & English natural language understanding.
+  - ✍️ **1-Click Seller Copywriter**: Generates SEO-optimized descriptions, bullet highlights & trending tags for merchants.
+  - 📊 **AI Review Synthesizer**: Auto-reads customer reviews to produce pros/cons breakdown and live sentiment scoring.
+  - 🔍 **Natural Language Smart Search**: Converts conversational queries into structured dynamic database filters.
+- 🛡️ **Enterprise Security & Dual OTP Auth**: Multi-Role RBAC (`ADMIN`, `SELLER`, `CUSTOMER`) · Dual login via **Email OR Phone** · Real 6-digit OTP via **Gmail SMTP & Fast2SMS API**.
+- 📍 **Live GPS & Interactive Map Picker**: 1-click HTML5 geolocation detection with OpenStreetMap reverse geocoding for automated address filling.
+- 🛍️ **Modern Storefront & Rich UX**: Instant autosuggest search, product compare, shareable wishlists, quick view modals, size charts & interactive return/exchange system.
+- 💳 **Seamless Razorpay Checkout**: 5-step checkout (UPI, Cards, NetBanking, COD), real-time coupon engine, dynamic shipping tracker, live order timeline & automated PDF invoice generator.
+- 📊 **Comprehensive Merchant & Admin Control**: Advanced seller inventory & earnings analytics, platform revenue tracking, and global moderation suite.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini-3.5_Flash-8E75FF?style=flat-square&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot_3.3-Java_21-007396?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_19-Vite_6-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-v4.0-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Razorpay-Payment_Gateway-0C2340?style=flat-square&logo=razorpay&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL_8.0-Database-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
 
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/narayan1483/E-commerce-ShopNest-)
-[![Tech](https://img.shields.io/badge/Stack-React%2019%20%7C%20Spring%20Boot%203%20%7C%20MySQL-blue?style=flat-square)](https://github.com/narayan1483/E-commerce-ShopNest-)
+[![Live Code](https://img.shields.io/badge/Source-View_on_GitHub-success?style=flat-square&logo=github)](https://github.com/narayan1483/E-commerce-ShopNest-)
 
 </td>
 </tr>
+
 <tr>
 <td colspan="2" width="100%">
 
